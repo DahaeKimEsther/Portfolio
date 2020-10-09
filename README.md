@@ -12,7 +12,7 @@
 
 ## 프로젝트
 뉴스기사를 활용한 주가예측 중 NLP모델 담당(Bert 사용)  
-Colab 링크: https://colab.research.google.com/drive/13HhWKcphcLSJNDQC8-C1xtvFq-XwJIPV?usp=sharing  
+Colab 링크: https://colab.research.google.com/drive/13HhWKcphcLSJNDQC8-C1xtvFq-XwJIPV?usp=sharing    
 
 Curiosity Project Team 현직자 멘토링 콘서트 홍보  
 기간: 2019.01 - 2019.06  
