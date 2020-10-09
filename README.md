@@ -11,7 +11,7 @@
 숭실대 중앙동아리 유어슈 마케팅 팀장  
 
 ## 프로젝트
-뉴스기사를 활용한 주가예측 중 NLP모델 담당(Bert 사용)  
+뉴스기사를 활용한 주가예측 중 NLP모델 담당(Bert, Hugging Face Multilingual Model 사용)  
 Colab 링크: https://colab.research.google.com/drive/1vf1W7QLbY_tp9tk_M1JFS5Z0cBrrlIF4?usp=sharing    
 
 Curiosity Project Team 현직자 멘토링 콘서트 홍보  
